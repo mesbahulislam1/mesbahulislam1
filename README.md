@@ -1,6 +1,6 @@
  
  <p align="center">
- <img src="new-pic.png](https://media.licdn.com/dms/image/v2/D5616AQG86uImwwVR0A/profile-displaybackgroundimage-shrink_350_1400/B56ZzErwgRIsAY-/0/1772826332138?e=1774483200&v=beta&t=UHKhTdWEK_uqx4M6YWcqtlpxYEEfMitZsboH_4Dn2v4)" width="600" alt="Profile Banner">
+ <img src="https://media.licdn.com/dms/image/v2/D5616AQG86uImwwVR0A/profile-displaybackgroundimage-shrink_350_1400/B56ZzErwgRIsAY-/0/1772826332138?e=1774483200&v=beta&t=UHKhTdWEK_uqx4M6YWcqtlpxYEEfMitZsboH_4Dn2v4" width="600" alt="Profile Banner">
 </p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  Hi
