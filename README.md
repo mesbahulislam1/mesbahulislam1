@@ -1,27 +1,175 @@
-# 💫 About Me:
-<br>✍️ I'm a passionate Frontend Developer who loves turning ideas into<br>clean, responsive, and user-friendly web experiences.<br><br>🌱 Currently learning HTML, CSS, JavaScript<br>🎯 Focused on UI design & real-world projects<br>💡 Improving logic, performance & best practices<br>🔥 Goal: Professional Frontend Developer
+ 
+ <p align="center">
+ <img src="new-pic.png" width="600" alt="Profile Banner">
+</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  Hi
+🏆Md. Mesbahul Islam is Here🏆
+
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=Aspiring+MERN+Stack+Developer+💻;Aspiring+React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
+</p>
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://github.com/mesbahulislam1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mesbahulisla) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://github.com/mesbahulislam1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-mesbahul--islam/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://github.com/mesbahulislam1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://github.com/mesbahulislam1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mesbahulislam012@gmail.com) 
+<h3 align="center">As a Junior Web Developer, I’m passionate about the frontend From Bangladesh
+</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mesbahulislam1&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mesbahulislam1&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mesbahulislam1&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br clear="right"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mesbahulislam1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 style="margin-bottom: 6px;">💫 About Me</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img 
+  align="right" 
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+  width="300"
+  style="margin-top: 0px; margin-left: 12px;"
+  alt="coding animation"/> <br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mesbahulislam1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mesbahulislam1&icon=0&color=0)](https://visitcount.itsvg.in)
+  ✍️ I'm a passionate **Frontend Developer** who loves turning ideas into  
+   clean, responsive, and user-friendly web experiences.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 Currently learning **HTML, CSS, JavaScript**
+- 🎯 Focused on UI design & real-world projects
+- 💡 Improving logic, performance & best practices
+- 🔥 Goal: Professional Frontend Engineer
+
+<br clear="right"/>
+
+## 📊 Connect with me
+<p align="center">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mesbahul--islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesbahulislam1" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mesbahulisla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mesbahulislam1" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>
+<br>
+ 
+<br clear="right"/>
+ 
+<div align="center">
+<a href="mesbahulislam012@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://discord.com/users/kamal_50618" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+ <br clear="right"/>
+ 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamalcodezen&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/kamalcodezen?style=for-the-badge&cacheSeconds=1" />
+  <img src="https://img.shields.io/github/stars/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
+</div>
+
+
+## 🚀 Tech Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,github,figma" />
+</p>
+
+
+
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="500" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" width="500" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 💡 Featured Projects
+<div align="center">
+
+| Project | Description | Tech Stack | Live | Code |
+|---------|-------------|------------|------|------|
+| 📘 English Janala | API ভিত্তিক Interactive Vocabulary Learning App (Search, Dark Mode, Voice) | HTML, Tailwind, DaisyUI, JavaScript, REST API | [Live]() | [Code]() |
+| 💸 Payoo Money Transfer | Modern Banking UI with Transaction Layout | HTML, CSS, JavaScript | [Live]() | [Code]() |
+| 🍵 Tea House Landing Page | Fully Responsive Tailwind CSS Landing Page | HTML, Tailwind CSS | [Live]() | [Code]() |
+| 🎆 Realistic Fireworks | Creative JavaScript Animation Project | HTML, CSS, JavaScript | [Live]() | [Code]() |
+| 🌸 Flower Animation | CSS Based Creative Animation | HTML, CSS | [Live]() | [Code]() |
+| 🧠 Fitness Web UI | Modern Responsive Fitness Website Design | HTML, CSS | [Live]() |
+
+</div
+<br/>
+
+
+## ✍️ Random Dev Quote
+
+<p align="left">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=All%20power%20is%20within%20you.%20You%20can%20do%20anything%20and%20everything.&author=Swami%20Vivekananda" 
+  />
+</p>
+
+
+
+## 📈 Contribution Graph
+
+<p align="left">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalcodezen&theme=github_dark" alt="Contribution Graph" width="1000" />
+  
+</p>
+
+<!--
+<table>
+  <tr>
+    <td>
+
+  </td>
+    <td>
+  
+![](https://github-contributor-stats.vercel.app/api?username=kamalcodezen&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+    </td>
+  </tr>
+</table>
+-->
+
+
+
+
+
+
+
+## 📫 Contact Information
+
+<div align="center">
+
+📍 **Location:** Rajshahi, Bangladesh 
+📧 **Email:** mesbahulislam012@gmail.com
+
+📞 **Phone:** 
+
+</div>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
+</div>
+
+<div align="center">
+  
+  ⭐️ **If you like my work, feel free to star my repos!**  
+  🤝 **I'm open to collaboration and learning from amazing developers!**
+  
+</div>
+
+## 🐍 Contribution Snake
+
