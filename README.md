@@ -124,10 +124,9 @@
 
 ## 📈 Contribution Graph
 
-<p align="left">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalcodezen&theme=github_dark" alt="Contribution Graph" width="1000" />
-  
-</p>
+<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/29b8c2d6-132e-43c4-ad39-2c8a3d4cbb5c" />
+
+
 
 <!--
 <table>
