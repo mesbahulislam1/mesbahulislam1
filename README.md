@@ -81,13 +81,16 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mesbahulislam1&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mesbahulislam1&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mesbahulislam1&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=mesbahulislam1&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 
 ## 💡 Featured Projects
