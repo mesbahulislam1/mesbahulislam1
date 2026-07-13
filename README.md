@@ -1,6 +1,6 @@
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mesbahulislam1/mesbahulislam1/main/banner.png" width="100%" alt="Profile Banner">
+  <img src="https://blog.pixelfreestudio.com/wp-content/uploads/2024/08/banner-github-original-1024x538-1.jpg" width="100%" alt="Profile Banner">
 </p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  Hi
